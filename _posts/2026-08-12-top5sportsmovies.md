@@ -6,7 +6,7 @@ date: 2026-08-12
 1. Slapshot
 <img src="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTDzTuYK2bop3Liyy_vdfRFogROjpTkwrp_emw7NedpALwIY5_L" height=160 alt="Slapshot">
 2. Rocky
-<img src="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTnZEdHEy3yB_xT8TFYNijZamXgNTPx62Q2hmPkuod-hVx4HIv2" height=160 alt="Rocky"
+<img src="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTnZEdHEy3yB_xT8TFYNijZamXgNTPx62Q2hmPkuod-hVx4HIv2" height=160 alt="Rocky">
 3. Remember the Titans
 <img src="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRxUNw6FOwV1_UP7LHmMpG2gsbvoK10_TejlhOPWmlBIZzet1oQ" height=160 alt="Titans">
 4. White Men Can't Jump
