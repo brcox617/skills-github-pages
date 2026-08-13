@@ -1,11 +1,9 @@
 <header class="site-header">
-  <div class="container header-top">
+  <div class="container header-inner">
     <a class="brand" href="{{ '/' | relative_url }}">
       <img src="{{ site.logo | default: '/assets/images/logo.svg' | relative_url }}" alt="{{ site.title }} logo" class="logo" />
       <span class="site-title">{{ site.title }}</span>
     </a>
-  </div>
-  <div class="container header-nav">
     <nav class="site-nav">
       <a href="{{ '/' | relative_url }}">Home</a>
       <a href="{{ '/about/' | relative_url }}">About</a>
