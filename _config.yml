@@ -1,20 +1,3 @@
 theme: minima
 title: Brendan's Top 5's
 description: Check in daily for Brendan's top 5 lists.
-url: https://brcox617.github.io
-plugins:
-  - jekyll-feed
-  - jekyll-seo-tag
-
-defaults:
-  - scope:
-      path: ""
-      type: "posts"
-    values:
-      layout: post
-      author: "Brendan"
-      image: /assets/images/default-cover.svg
-
-# Optional: add social links and other site-wide settings
-# twitter_username: your_twitter
-# github_username: brcox617
