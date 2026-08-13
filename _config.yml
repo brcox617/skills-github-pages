@@ -2,6 +2,7 @@ theme: minima
 title: Brendan's Top 5's
 description: Check in daily for Brendan's top 5 lists.
 url: https://brcox617.github.io
+baseurl: ""
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
@@ -14,6 +15,9 @@ defaults:
       layout: post
       author: "Brendan"
       image: /assets/images/default-cover.svg
+
+# Default image for templates to use (safer to reference than digging into site.defaults)
+default_image: /assets/images/default-cover.svg
 
 # Optional: add social links and other site-wide settings
 # twitter_username: your_twitter
