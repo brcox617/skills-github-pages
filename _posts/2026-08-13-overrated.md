@@ -6,28 +6,28 @@ date: 2026-08-13
 Top 5 Overrated Things
 
 <ol reversed start="5">
-  <li>Pets
+  <li><strong>Pets</strong>
 
-      This one will anger the 1-2 people that read this, but I'm an adult and I'm fine with you being mad about it. We'll get past it.
+    <p>This one will anger the 1-2 people that read this, but I'm an adult and I'm fine with you being mad about it. We'll get past it.</p>
   </li>
 
-  <li>Picnics
+  <li><strong>Picnics</strong>
 
-      Sit on the ground on a blanket, keep the wildlife from your food, bake in the sun, and carry it all to a more remote location before you eat? No thanks.
+    <p>Sit on the ground on a blanket, keep the wildlife from your food, bake in the sun, and carry it all to a more remote location before you eat? No thanks.</p>
   </li>
 
-  <li>Nightclubs
+  <li><strong>Nightclubs</strong>
 
-      The noise is so loud you can't hear people talk. Tables are absurdly expensive and the waitstaff can't hear you anyway. These were always a regret and I'm thrilled to have aged out of tolerating n...
+    <p>The noise is so loud you can't hear people talk. Tables are absurdly expensive and the waitstaff can't hear you anyway. These were always a regret and I'm thrilled to have aged out of tolerating n...</p>
   </li>
 
-  <li>Caviar
+  <li><strong>Caviar</strong>
 
-      Try it and disagree, you can't.
+    <p>Try it and disagree, you can't.</p>
   </li>
 
-  <li>Champagne
+  <li><strong>Champagne</strong>
 
-      You can't convince me people aren't pretending to like it because it seems glamorous. It's overly carbonated, has a foul aftertaste, and even the top shelf expensive champagne is only worth a smal...
+    <p>You can't convince me people aren't pretending to like it because it seems glamorous. It's overly carbonated, has a foul aftertaste, and even the top shelf expensive champagne is only worth a smal...</p>
   </li>
 </ol>
