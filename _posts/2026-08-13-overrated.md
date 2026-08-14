@@ -18,7 +18,7 @@ Top 5 Overrated Things
 
   <li><strong>Nightclubs</strong>
 
-    <p>The noise is so loud you can't hear people talk. Tables are absurdly expensive and the waitstaff can't hear you anyway. These were always a regret and I'm thrilled to have aged out of tolerating n...</p>
+    <p>The noise is so loud you can't hear people talk. Tables are absurdly expensive and the waitstaff can't hear you anyway. These were always a regret and I'm thrilled to have aged out of tolerating clubs.</p>
   </li>
 
   <li><strong>Caviar</strong>
